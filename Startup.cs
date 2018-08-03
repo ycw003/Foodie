@@ -27,7 +27,7 @@ namespace Foodie
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World from Foodie!");
+                await context.Response.WriteAsync("Hello Foodie!");
             });
         }
     }

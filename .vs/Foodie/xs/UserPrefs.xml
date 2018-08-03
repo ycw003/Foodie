@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{582C3D2C-CA1A-44DB-910A-5FC9E29BFB27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Foodie Status">
+    <Files>
+      <File FileName="Startup.cs" Line="30" Column="68" />
+      <File FileName="Foodie Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Foodie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
