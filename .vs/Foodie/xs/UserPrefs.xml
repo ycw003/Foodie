@@ -1,9 +1,23 @@
 ﻿<Properties StartupConfiguration="{582C3D2C-CA1A-44DB-910A-5FC9E29BFB27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Foodie Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Startup.cs" Line="30" Column="71" />
-      <File FileName="Foodie Status" />
+      <File FileName="Startup.cs" Line="19" Column="10" />
+      <File FileName="Program.cs" Line="17" Column="10" />
+      <File FileName="appsettings.json" Line="19" Column="27" />
+      <File FileName="Properties/launchSettings.json" Line="21" Column="72" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Foodie" expanded="True">
+            <Node name="Foodie" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
