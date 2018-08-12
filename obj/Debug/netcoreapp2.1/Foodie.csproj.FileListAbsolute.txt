@@ -3,7 +3,6 @@
 /Users/jessicawu/Projects/Foodie/bin/Debug/netcoreapp2.1/Foodie.runtimeconfig.dev.json
 /Users/jessicawu/Projects/Foodie/bin/Debug/netcoreapp2.1/Foodie.dll
 /Users/jessicawu/Projects/Foodie/bin/Debug/netcoreapp2.1/Foodie.pdb
-/Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.csprojAssemblyReference.cache
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.csproj.CoreCompileInputs.cache
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.RazorAssemblyInfo.cache
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.RazorTargetAssemblyInfo.cache
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.dll
 /Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.pdb
+/Users/jessicawu/Projects/Foodie/obj/Debug/netcoreapp2.1/Foodie.csprojAssemblyReference.cache
